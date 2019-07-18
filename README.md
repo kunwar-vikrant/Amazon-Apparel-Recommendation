@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="http://rejoiner.com/resources/wp-content/uploads/2016/06/amazon-recos-feat.png">
+  <img width="460" height="300" src="https://m.media-amazon.com/images/G/01/kindle/merch/2017/echolook/DP/style-check-images-1.gif">
 </p>
 
 ## Problem Statement
